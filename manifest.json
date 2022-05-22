@@ -1,0 +1,10 @@
+{
+  "name": "Random Email Address Generator",
+  "id": "1109344197084586587",
+  "api": "1.0.0",
+  "main": "code.js",
+  "ui": "ui.html",
+  "editorType": [
+    "figma"
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "name": "Random-Email-Address-Generator",
+  "version": "1.0.0",
+  "description": "Generates random email addresses from text.",
+  "main": "code.js",
+  "scripts": {
+    "build": "tsc -p tsconfig.json"
+  },
+  "author": "Caleb Faulkner, Caleb Dawson",
+  "license": "",
+  "devDependencies": {
+    "@figma/plugin-typings": "*",
+    "typescript": "*"
+  }
+}
