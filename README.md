@@ -4,4 +4,4 @@ This Figma plugin generates random email addresses from text. Simply select your
 
 Authors: Caleb Faulkner and Caleb Dawson
 
-You can run the plugin in Figma <a href="https://www.figma.com/community/plugin/1109344197084586587" target="_blank">here</a>
+You can run the plugin in Figma <a href="https://www.figma.com/community/plugin/1109344197084586587" target="blank">here</a>
