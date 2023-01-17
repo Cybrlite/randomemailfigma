@@ -1,4 +1,4 @@
-
+![banner](banner.jpg)
 
 This Figma plugin generates random email addresses from text. Simply select your text, and run the plugin.
 
